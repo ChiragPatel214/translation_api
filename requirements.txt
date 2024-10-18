@@ -2,3 +2,5 @@ transformers
 gradio==3.50
 torch
 httpx==0.24.1
+fastapi 
+uvicorn
